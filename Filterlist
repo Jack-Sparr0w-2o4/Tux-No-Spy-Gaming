@@ -1,7 +1,7 @@
 CD Projekt S.A.
 GoG Galaxy | Good old Games | GoG Galaxy Client+Webseite
 23.55.163.80
-0.0.0.0 remote-config.gog.com Galaxy Downloadlink, verweist auf Content-System
+0.0.0.0 remote-config.gog.com  Galaxy Downloadlink, verweist auf Content-System
 23.55.163.55
 67.26.82.31
 67.27.235.2
@@ -12,10 +12,10 @@ GoG Galaxy | Good old Games | GoG Galaxy Client+Webseite
 Ip/s blockieren:
 23.55.163.75
 23.55.163.68
-0.0.0.0 insights-collector.gog.com Eventtelemetrie
+0.0.0.0 insights-collector.gog.com  Eventtelemetrie
 Ip/s blockieren:
 46.105.121.139
-0.0.0.0 galaxy-client-reports.gog.com Nochmal Schnüffelei
+0.0.0.0 galaxy-client-reports.gog.com  Nochmal Schnüffelei
 Ip/s blockieren:
 77.79.249.152
 77.79.249.151
@@ -49,10 +49,10 @@ Externes, Accountbindung
 23.55.163.83
 0.0.0.0 external-accounts.gog.com
 Dynamische und statische Inhalte
-0.0.0.0 embed.gog.com Wishlist, Userdata, Biblitohek, Accesstoken, SVG
-0.0.0.0 galaxy-promos.gog.com Banner
-0.0.0.0 api.gog.com Access Token, Währungsrechner
-0.0.0.0 www4-static.gog-statics.com Javascripts, Fonts, Tracker
+0.0.0.0 embed.gog.com  Wishlist, Userdata, Biblitohek, Accesstoken, SVG
+0.0.0.0 galaxy-promos.gog.com  Banner
+0.0.0.0 api.gog.com  Access Token, Währungsrechner
+0.0.0.0 www4-static.gog-statics.com  Javascripts, Fonts, Tracker
 0.0.0.0 images.gog.com
 0.0.0.0 images.gog-statics.com
 0.0.0.0 images-2.gog-statics.com
@@ -228,7 +228,7 @@ Achtung! Zur Anmeldung wird einmalig die tracking.epicgames.com benötigt - Den 
 0.0.0.0 launcher-public-service-prod06.ol.epicgames.com
 0.0.0.0 catalog-public-service-prod06.ol.epicgames.com
 0.0.0.0 entitlement-public-service-prod08.ol.epicgames.com
-0.0.0.0 epicgames.com Login
+0.0.0.0 epicgames.com  Login
 0.0.0.0 www.unrealengine.com
 0.0.0.0 eulatracking-public-service-prod06.ol.epicgames.com
 0.0.0.0 qos1.ol.epicgames.com
@@ -303,7 +303,7 @@ Warenkorb
 54.68.228.72
 52.34.71.92
 100.20.121.79
-0.0.0.0 payment-website-pci.ol.epicgames.com IP-Adresse, Land, Sprtache, Zeitstempel, Währung, AccountID, genutzte Plattform z.b. Launcher uvm
+0.0.0.0 payment-website-pci.ol.epicgames.com  IP-Adresse, Land, Sprtache, Zeitstempel, Währung, AccountID, genutzte Plattform z.b. Launcher uvm
 0.0.0.0 a.stun.kaptcha.com
 0.0.0.0 ssl.kaptcha.com
 Cloud
@@ -314,15 +314,15 @@ Freunde
 3.224.186.128
 34.199.242.157
 50.17.75.168
-0.0.0.0 friends-public-service-prod06.ol.epicgames.com Verknüpfung & Blockliste
-0.0.0.0 xmpp-service-prod.ol.epicgames.com Websocket
+0.0.0.0 friends-public-service-prod06.ol.epicgames.com  Verknüpfung & Blockliste
+0.0.0.0 xmpp-service-prod.ol.epicgames.com  Websocket
 0.0.0.0 xmpp-service-prod-weighted.ol.epicgames.com
-0.0.0.0 launcher-website-prod07.ol.epicgames.com Freundeseite
+0.0.0.0 launcher-website-prod07.ol.epicgames.com  Freundeseite
 Seitenaufbau, Inhalte
 52.4.65.215
 104.101.101.114
 52.207.66.163
-0.0.0.0 static-assets-prod.epicgames.com Javascripts, CSS, Schriften, Bilder
+0.0.0.0 static-assets-prod.epicgames.com  Javascripts, CSS, Schriften, Bilder
 Analytics, Affiliate und Geodatenerfassung
 52.2.190.222
 54.158.82.37
@@ -345,13 +345,13 @@ Analytics, Affiliate und Geodatenerfassung
 52.22.147.232
 0.0.0.0 datarouter.ol.epicgames.com
 0.0.0.0 datarouter-prod.ak.epicgames.com
-0.0.0.0 tracking.epicgames.com Javascript, Pageview, Trackingpixel - aktiviert sich auf ziemlich jeder Seite mit aktuellen Daten und Aufnahme von Einzelschritten
-0.0.0.0 www.epicgames.com Geodatenerfassung und Funnel-Analytics - zudem liegt dort die eigene Accountseite
-0.0.0.0 accounts.launcher-website-prod07.ol.epicgames.com Funnelanalytics - Unterseite für Freundeverbindungen, Anfragen, Vorschläge
+0.0.0.0 tracking.epicgames.com  Javascript, Pageview, Trackingpixel - aktiviert sich auf ziemlich jeder Seite mit aktuellen Daten und Aufnahme von Einzelschritten
+0.0.0.0 www.epicgames.com  Geodatenerfassung und Funnel-Analytics - zudem liegt dort die eigene Accountseite
+0.0.0.0 accounts.launcher-website-prod07.ol.epicgames.com  Funnelanalytics - Unterseite für Freundeverbindungen, Anfragen, Vorschläge
 0.0.0.0 tracking-website-prod07-epic-96184209.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 0.0.0.0 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
-0.0.0.0 sentry.io Monitoring und Errortracking
+0.0.0.0 sentry.io  Monitoring und Errortracking
 Nicht zugeordnet
 23.45.96.219
 0.0.0.0 talon-website-prod.ak.epicgames.com
@@ -375,9 +375,9 @@ Drittanbieter
 0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 yt3.ggpht.com
-0.0.0.0 events.elev.io Supportwebseite
-0.0.0.0 bam-cell.nr-data.net Tracking von https://store-launcher.epicgames.com/store/purchase
-0.0.0.0 js-agent.newrelic.com Tracking von https://store-launcher.epicgames.com/store/purchase?showNavigation=true&highlightColor=0078f2&offers=1-xxxxxx-xxxxxx
+0.0.0.0 events.elev.io  Supportwebseite
+0.0.0.0 bam-cell.nr-data.net  Tracking von https://store-launcher.epicgames.com/store/purchase
+0.0.0.0 js-agent.newrelic.com  Tracking von https://store-launcher.epicgames.com/store/purchase?showNavigation=true&highlightColor=0078f2&offers=1-xxxxxx-xxxxxx
 13.248.151.210
 76.223.31.44
 151.101.114.217
@@ -413,7 +413,7 @@ Telemetrie und Tracking
 0.0.0.0 usage.trackjs.com
 0.0.0.0 capture.trackjs.co
 0.0.0.0 prod-telemetry.paradox-interactive.com
-0.0.0.0 opstm.paradoxplaza.com In älteren Titeln aktiv, wurde durch Prod-Telemetry ersetzt
+0.0.0.0 opstm.paradoxplaza.com  In älteren Titeln aktiv, wurde durch Prod-Telemetry ersetzt
 Anmeldung und Account optional
 0.0.0.0 services.paradoxplaza.com
 0.0.0.0 api.paradox-interactive.com
@@ -497,9 +497,9 @@ Spyware, Werbung und Tracker
 18.66.138.159
 151.101.1.26
 0.0.0.0 smetrics.ubi.com
-0.0.0.0 try.abtasty.com Analyticsscript
-0.0.0.0 dcinfos-cache.abtasty.com GeoIP
-0.0.0.0 ariane.abtasty.com Trackingpixel
+0.0.0.0 try.abtasty.com  Analyticsscript
+0.0.0.0 dcinfos-cache.abtasty.com  GeoIP
+0.0.0.0 ariane.abtasty.com  Trackingpixel
 0.0.0.0 dpm.demdex.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 www.youtube.com
@@ -510,14 +510,14 @@ Spyware, Werbung und Tracker
 Valve Corporation | Valve Softworks | Steam Client
 Info: https://gameindustry.eu/katalog/valve-corporation/captive-portal/
 Seit Version 1637358733 inaktiv
-0.0.0.0 gstatic.com ALT
+0.0.0.0 gstatic.com  ALT
 Neuer Versuch mit Callbacks seit Clientversion 1652399523 - IPv4 nicht vollständig
 95.101.27.151
 2.16.107.155
 23.213.161.93
 23.213.161.77
 62.115.252.177
-0.0.0.0 test.steampowered.com /204
+0.0.0.0 test.steampowered.com  /204
 Steam: Auth | https & wss Protokoll
 103.10.124.124
 103.28.54.178
@@ -576,7 +576,7 @@ Steam: API
 2.23.53.12
 Block nicht empfohlen, aber möglich.
 Metriken unter /IClientMetricsService/ReportClientError/v1
-0.0.0.0 api.steampowered.com Globale Erfolge, Anmeldetoken, DRM, Metriken, Kommentare im Forum und Profil, Aktivitäten
+0.0.0.0 api.steampowered.com  Globale Erfolge, Anmeldetoken, DRM, Metriken, Kommentare im Forum und Profil, Aktivitäten
 Steam: Broadcasting
 23.53.41.248
 208.64.200.16
@@ -623,7 +623,7 @@ Steam: Chat
 104.74.120.234
 104.82.95.31
 23.62.113.19
-0.0.0.0 steam-chat.com Javascript WebUI, JSON, Miniprofile
+0.0.0.0 steam-chat.com  Javascript WebUI, JSON, Miniprofile
 Steam: Client Update Service
 2.21.228.80
 155.133.250.108
@@ -670,14 +670,14 @@ De/aktivieren nach Bedarf
 0.0.0.0 objectstorage.eu-stockholm-1.oraclecloud.com
 0.0.0.0 blob.mwh04prdstr01a.store.core.windows.net
 Clouduploads direkt über IP
-208.64.201.182 /depotupload/xxxxx/manifest und chunk
+208.64.201.182  /depotupload/xxxxx/manifest und chunk
 Nicht authorisierte Clouduploads
 Steam: Cloudflare
 104.18.24.217
 104.18.25.217
 2606:4700::6812:18d9
-0.0.0.0 community.cloudflare.steamstatic.com Sounds, CSS Dateien, Javascript, Emoticons, Icons, Grafiken Sammelkarten
-0.0.0.0 store.cloudflare.steamstatic.com Javascript, CSS, Schriften, Webseitengrafiken
+0.0.0.0 community.cloudflare.steamstatic.com  Sounds, CSS Dateien, Javascript, Emoticons, Icons, Grafiken Sammelkarten
+0.0.0.0 store.cloudflare.steamstatic.com  Javascript, CSS, Schriften, Webseitengrafiken
 0.0.0.0 shared.cloudflare.steamstatic.com
 0.0.0.0 clan.cloudflare.steamstatic.com
 0.0.0.0 avatars.cloudflare.steamstatic.com
@@ -687,13 +687,13 @@ Steam: Community
 104.73.230.192
 190.98.152.19
 23.10.118.254
-0.0.0.0 steamcommunity.com eigene ID, GruppenID, Freunde, Abzeichen, News, Diskussionen, Miniprofil, Profil und Ökonomie
+0.0.0.0 steamcommunity.com  eigene ID, GruppenID, Freunde, Abzeichen, News, Diskussionen, Miniprofil, Profil und Ökonomie
 Steam: Crashlogs | Telemetrie
 Ip/s blockieren:
 208.64.203.140
 208.64.203.173
 23.55.163.64
-0.0.0.0 crash.steampowered.com BuildID, Zeit, Notes, Plattform, Produktname, Startzeit, Steamuniverse, Theme, Url, UserID, Vendor, Version, Laufzeit, Upload der Minidump uvm.
+0.0.0.0 crash.steampowered.com  BuildID, Zeit, Notes, Plattform, Produktname, Startzeit, Steamuniverse, Theme, Url, UserID, Vendor, Version, Laufzeit, Upload der Minidump uvm.
 0.0.0.0 collector-01.valve.net
 0.0.0.0 collector-02.valve.net
 Steam: Discovery
@@ -734,7 +734,7 @@ Ip/s blockieren:
 Steam: IP Checks
 Info & IPv6: https://gameindustry.eu/katalog/valve-corporation/ipv6check/
 0.0.0.0 ipv6check-udp.steamserver.net
-0.0.0.0 ipv6check-http.steamserver.net Obsolete, but still contacted
+0.0.0.0 ipv6check-http.steamserver.net  Obsolete, but still contacted
 Steam: IP Selector
 205.196.6.144
 205.196.6.172
@@ -792,7 +792,7 @@ Steam: Store
 93.191.15.170
 93.191.15.171
 https://store.steampowered.com/default/usabilitytracking/
-0.0.0.0 store.steampowered.com Altersverifizierung, Nutzungsbedinungen, Suche, Eventtracking, Broadcast, Accountmeldungen, Hover, Updatenews, API Anbindung, Beschreibungen & Ids für Produkte
+0.0.0.0 store.steampowered.com  Altersverifizierung, Nutzungsbedinungen, Suche, Eventtracking, Broadcast, Accountmeldungen, Hover, Updatenews, API Anbindung, Beschreibungen & Ids für Produkte
 Steam: Support
 104.18.11.128
 0.0.0.0 support.steampowered.com
@@ -816,9 +816,9 @@ Ip/s blockieren:
 0.0.0.0 i.ytimg.com
 Paypal Tracking - Aktiv im Warenkorb, auch ohne eingegebene Paypaldaten
 151.101.129.21
-0.0.0.0 www.paypal.com Logger, TagManager, Trackingcookies
+0.0.0.0 www.paypal.com  Logger, TagManager, Trackingcookies
 0.0.0.0 www-fastly.glb.paypal.com
-0.0.0.0 t.paypal.com Trackingpixel
+0.0.0.0 t.paypal.com  Trackingpixel
 Kopierschutz & DRM
 Kopierschutz & DRM, AntiCheat und andere Gängelungen
 BattlEye Innovations
@@ -826,10 +826,10 @@ BattlEye
 145.239.8.133
 51.195.88.133
 0.0.0.0 ce1.battleye.com
-0.0.0.0 grb1.battleye.com Aus dem Spiel Tom Clancy’s Ghost Recon: Breakpoint
-0.0.0.0 ark1.battleye.com Aus dem Spiel Ark: Survival Evolved
-0.0.0.0 arma31.battleye.com Aus dem Spiel Arma 3
-0.0.0.0 ins1.battleye.com Aus dem Spiel Insurgency
+0.0.0.0 grb1.battleye.com  Aus dem Spiel Tom Clancy’s Ghost Recon: Breakpoint
+0.0.0.0 ark1.battleye.com  Aus dem Spiel Ark: Survival Evolved
+0.0.0.0 arma31.battleye.com  Aus dem Spiel Arma 3
+0.0.0.0 ins1.battleye.com  Aus dem Spiel Insurgency
 0.0.0.0 ns3081506.ip-145-239-8.eu
 Kamu Game Security | Epic Games, Inc.
 HYDRA Easy Anti-Cheat
@@ -916,3 +916,98 @@ Ip/s blockieren:
 0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
+Amazon.com, Inc. / Amazon Games
+New World
+Einträge zu in New Worlds enhaltener Easy AntiCheat Software sind unter der Kategorie Kopierschutz zu finden
+Sonstiges
+18.66.107.191
+18.66.242.78
+18.66.107.55
+52.217.65.220
+52.217.201.201
+0.0.0.0 d2c74t4zimux3r.cloudfront.net  Steam_App_ID.1063730.json
+0.0.0.0 s3-w.us-east-1.amazonaws.com  auch z.b. für github-production-release-asset-2e65be.s3.amazonaws.com für Releaseuploads
+STS - AWS Identity und Access Management
+54.239.24.200
+54.239.16.72
+0.0.0.0 sts.us-east-1.amazonaws.com
+0.0.0.0 sts.amazonaws.com
+Kinesis - Echtzeitanalysse, BigData und Verknüfpung zu anderen AWS Diensten
+52.119.211.247
+3.24.227.244
+3.123.12.204
+3.123.12.195
+3.24.227.249
+18.229.220.157
+34.223.45.95
+3.91.171.226
+0.0.0.0 kinesis.ap-southeast-1.amazonaws.com
+0.0.0.0 kinesis.ap-southeast-2.amazonaws.com
+0.0.0.0 kinesis.ap-northeast-1.amazonaws.com
+0.0.0.0 kinesis.ap-northeast-2.amazonaws.com
+0.0.0.0 kinesis.sa-east-1.amazonaws.com
+0.0.0.0 kinesis.eu-central-1.amazonaws.com
+0.0.0.0 kinesis.us-west-2.amazonaws.com
+0.0.0.0 kinesis.us-east-1.amazonaws.com
+Metadata personaHost
+54.146.208.115
+54.89.165.9
+35.174.93.31
+35.173.107.183
+34.207.45.121
+0.0.0.0 service.maestro.us-east-1.social.games.a2z.com  personaHostV2, Sessiondaten
+0.0.0.0 client.us-east-1.social.games.a2z.com  personaHost
+0.0.0.0 client.entitlementservice.amazongames.com
+DynamoDB - PING / Callbacks
+52.94.17.24
+52.119.226.188
+52.94.13.34
+52.94.10.24
+52.94.7.6
+52.94.17.30
+52.119.224.126
+52.94.10.82
+52.94.7.10
+52.94.13.28
+52.94.7.78
+0.0.0.0 dynamodb.ap-southeast-2.amazonaws.com
+0.0.0.0 dynamodb.eu-central-1.amazonaws.com
+0.0.0.0 dynamodb.us-east-1.amazonaws.com
+0.0.0.0 dynamodb.us-west-2.amazonaws.com
+0.0.0.0 dynamodb.sa-east-1.amazonaws.com
+Marketingtiles / Werbung / Ankündigungen
+52.92.144.186, 52.218.176.33, 3.229.133.91, 34.204.164.210
+0.0.0.0 ags-nw-cms.s3.us-west-2.amazonaws.com
+0.0.0.0 client.catalogservice.amazongames.com  IngameShop
+Assets
+65.9.71.91, 18.66.122.79, 18.66.122.76
+0.0.0.0 assets.ctfassets.net
+52.28.150.142
+0.0.0.0 www5-anwxp0euc1-elb-741467932.eu-central-1.elb.amazonaws.com
+Beginn Mehrspieler / Charakterauswahl / Erstellung etc
+0.0.0.0 ags-javelin-remote-config.s3.amazonaws.com  Konfigurationsets für Kinesis, RegionID, ProduktID, CognitoID, WorldID
+EU Central
+0.0.0.0 2mfrik7h83.execute-api.us-east-1.amazonaws.com  AuthStack
+0.0.0.0 u433g9r00c.execute-api.eu-central-1.amazonaws.com  LoginGateway
+0.0.0.0 8otrnl8e8d.execute-api.eu-central-1.amazonaws.com  JavelinGateway V2
+0.0.0.0 d1w0bfy6smo4d1.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
+SA East
+0.0.0.0 kqqt5twsi7.execute-api.us-east-1.amazonaws.com  AuthStack
+0.0.0.0 j4n6whncmi.execute-api.sa-east-1.amazonaws.com  LoginGateway
+0.0.0.0 ei4rb8pwvd.execute-api.sa-east-1.amazonaws.com  JavelinGateway V2
+0.0.0.0 d1cjlmzk0xrm0z.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
+US East
+0.0.0.0 0prplal5u1.execute-api.us-east-1.amazonaws.com  AuthStack
+0.0.0.0 eudbjx6mig.execute-api.us-east-1.amazonaws.com  LoginGateway
+0.0.0.0 3khxmonavl.execute-api.us-east-1.amazonaws.com  JavelinGateway V2
+0.0.0.0 d2oeuvxi3kfsrw.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
+US West
+0.0.0.0 q8hqllbg6k.execute-api.us-east-1.amazonaws.com  AuthStack
+0.0.0.0 v7irlu1nrl.execute-api.us-west-2.amazonaws.com  LoginGateway
+0.0.0.0 mwsyzhfoe5.execute-api.us-west-2.amazonaws.com  JavelinGateway V2
+0.0.0.0 d3bj4csovi1fe8.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
+AP Southeast
+0.0.0.0 hhf8nn71vb.execute-api.us-east-1.amazonaws.com  AuthStack
+0.0.0.0 ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com  LoginGateway
+0.0.0.0 9jlv7mxmw1.execute-api.ap-southeast-2.amazonaws.com  JavelinGateway V2
+0.0.0.0 de4mfzk9wkelz.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
