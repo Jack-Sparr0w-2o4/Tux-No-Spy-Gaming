@@ -1,54 +1,54 @@
-CD Projekt S.A.
-GoG Galaxy | Good old Games | GoG Galaxy Client+Webseite
-23.55.163.80
+ CD Projekt S.A.
+ GoG Galaxy | Good old Games | GoG Galaxy Client+Webseite
+ 23.55.163.80
 0.0.0.0 remote-config.gog.com  Galaxy Downloadlink, verweist auf Content-System
-23.55.163.55
-67.26.82.31
-67.27.235.2
-67.27.235.2
-8.238.28.42
-8.238.32.42
-8.248.116.21
-Ip/s blockieren:
-23.55.163.75
-23.55.163.68
+ 23.55.163.55
+ 67.26.82.31
+ 67.27.235.2
+ 67.27.235.2
+ 8.238.28.42
+ 8.238.32.42
+ 8.248.116.21
+ Ip/s blockieren:
+ 23.55.163.75
+ 23.55.163.68
 0.0.0.0 insights-collector.gog.com  Eventtelemetrie
-Ip/s blockieren:
-46.105.121.139
+ Ip/s blockieren:
+ 46.105.121.139
 0.0.0.0 galaxy-client-reports.gog.com  Nochmal Schnüffelei
-Ip/s blockieren:
-77.79.249.152
-77.79.249.151
+ Ip/s blockieren:
+ 77.79.249.152
+ 77.79.249.151
 0.0.0.0 galaxy-log.gog.com
-Ip/s blockieren:
-23.55.163.74
+ Ip/s blockieren:
+ 23.55.163.74
 0.0.0.0 presence.gog.com
-Anmeldung
-23.55.163.62
-23.55.163.44
+ Anmeldung
+ 23.55.163.62
+ 23.55.163.44
 0.0.0.0 auth.gog.com
-23.55.163.61
-23.55.163.66
+ 23.55.163.61
+ 23.55.163.66
 0.0.0.0 login.gog.com
-23.55.163.68
-23.55.163.75
-23.55.163.64
-23.55.163.58
+ 23.55.163.68
+ 23.55.163.75
+ 23.55.163.64
+ 23.55.163.58
 0.0.0.0 users.gog.com
-23.55.163.78
-23.55.163.75
+ 23.55.163.78
+ 23.55.163.75
 0.0.0.0 chat.gog.com
-192.229.233.146
+ 192.229.233.146
 0.0.0.0 cfg.gog.com
-Externes, Accountbindung
-195.167.152.201
+ Externes, Accountbindung
+ 195.167.152.201
 0.0.0.0 gwent-bi-collector.gog.com
-23.55.163.68
-23.55.163.75
+ 23.55.163.68
+ 23.55.163.75
 0.0.0.0 external-users.gog.com
-23.55.163.83
+ 23.55.163.83
 0.0.0.0 external-accounts.gog.com
-Dynamische und statische Inhalte
+ Dynamische und statische Inhalte
 0.0.0.0 embed.gog.com  Wishlist, Userdata, Biblitohek, Accesstoken, SVG
 0.0.0.0 galaxy-promos.gog.com  Banner
 0.0.0.0 api.gog.com  Access Token, Währungsrechner
@@ -58,124 +58,124 @@ Dynamische und statische Inhalte
 0.0.0.0 images-2.gog-statics.com
 0.0.0.0 images-3.gog-statics.com
 0.0.0.0 images-4.gog-statics.com
-Benachrichtigungen
-23.55.163.63
-23.55.163.64
-91.222.185.224
+ Benachrichtigungen
+ 23.55.163.63
+ 23.55.163.64
+ 91.222.185.224
 0.0.0.0 notifications.gog.com
 0.0.0.0 notifications-pusher.gog.com
-Unsortiertes Zeug
-23.55.163.57
-23.55.163.77
+ Unsortiertes Zeug
+ 23.55.163.57
+ 23.55.163.77
 0.0.0.0 gameplay.gog.com
-23.55.163.83
-23.55.163.52
+ 23.55.163.83
+ 23.55.163.52
 0.0.0.0 recommendations-api.gog.com
-23.55.163.59
-23.55.163.71
+ 23.55.163.59
+ 23.55.163.71
 0.0.0.0 galaxy-library.gog.com
-23.55.163.82
+ 23.55.163.82
 0.0.0.0 gamesdb.gog.com
-23.55.163.82
-23.55.163.59
+ 23.55.163.82
+ 23.55.163.59
 0.0.0.0 content-system.gog.com
-23.55.163.81
+ 23.55.163.81
 0.0.0.0 marketing-sections.gog.com
-Drittanbieter
-Ip/s blockieren:
-172.217.16.195
-142.250.186.359
-142.250.186.163
+ Drittanbieter
+ Ip/s blockieren:
+ 172.217.16.195
+ 142.250.186.359
+ 142.250.186.163
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.recaptcha.net
 0.0.0.0 script.hotjar.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 static.hotjar.com
-Electronic Arts, Inc.
-EA app
-104.109.86.248
-104.18.42.229
-104.75.88.194
-104.76.200.134
-104.79.88.75
-142.250.179.131
-142.250.179.196
-142.250.27.154
-142.250.27.155
-142.250.27.156
-142.250.27.157
-146.75.122.137
-146.75.123.9
-159.153.190.212
-159.153.191.239
-159.153.191.240
-159.153.64.176
-162.247.241.14
-172.217.168.238
-172.64.145.27
-18.210.165.252
-18.210.251.166
-18.211.229.155
-184.24.26.182
-2.21.110.129
-23.21.114.242
-23.213.161.135
-23.213.161.14
-23.213.161.142
-23.213.161.16
-23.213.161.20
-23.213.161.30
-23.213.161.31
-23.23.36.253
-23.55.110.188
-23.55.110.201
-23.55.163.80
-23.55.163.81
-3.218.36.138
-3.219.244.247
-3.221.214.88
-3.230.23.121
-34.193.123.192
-34.225.106.28
-34.226.79.145
-34.235.195.88
-34.236.224.207
-35.171.255.28
-44.194.141.69
-44.195.17.93
-44.196.150.158
-44.197.90.60
-44.212.163.116
-50.17.199.58
-52.200.135.87
-52.205.151.210
-52.3.157.158
-52.3.42.102
-52.44.223.226
-52.5.195.214
-52.7.253.224
-52.7.66.218
-52.72.172.66
-52.73.164.35
-54.159.138.17
-54.163.200.121
-54.197.93.225
-54.205.51.213
-54.208.38.111
-54.209.19.250
-54.210.16.100
-54.211.187.76
-54.226.96.64
-54.80.179.68
-54.80.207.227
-54.84.59.88
-54.87.79.70
-95.100.70.45
-99.86.4.11
-99.86.4.35
-99.86.4.54
-99.86.4.90
+ Electronic Arts, Inc.
+ EA app
+ 104.109.86.248
+ 104.18.42.229
+ 104.75.88.194
+ 104.76.200.134
+ 104.79.88.75
+ 142.250.179.131
+ 142.250.179.196
+ 142.250.27.154
+ 142.250.27.155
+ 142.250.27.156
+ 142.250.27.157
+ 146.75.122.137
+ 146.75.123.9
+ 159.153.190.212
+ 159.153.191.239
+ 159.153.191.240
+ 159.153.64.176
+ 162.247.241.14
+ 172.217.168.238
+ 172.64.145.27
+ 18.210.165.252
+ 18.210.251.166
+ 18.211.229.155
+ 184.24.26.182
+ 2.21.110.129
+ 23.21.114.242
+ 23.213.161.135
+ 23.213.161.14
+ 23.213.161.142
+ 23.213.161.16
+ 23.213.161.20
+ 23.213.161.30
+ 23.213.161.31
+ 23.23.36.253
+ 23.55.110.188
+ 23.55.110.201
+ 23.55.163.80
+ 23.55.163.81
+ 3.218.36.138
+ 3.219.244.247
+ 3.221.214.88
+ 3.230.23.121
+ 34.193.123.192
+ 34.225.106.28
+ 34.226.79.145
+ 34.235.195.88
+ 34.236.224.207
+ 35.171.255.28
+ 44.194.141.69
+ 44.195.17.93
+ 44.196.150.158
+ 44.197.90.60
+ 44.212.163.116
+ 50.17.199.58
+ 52.200.135.87
+ 52.205.151.210
+ 52.3.157.158
+ 52.3.42.102
+ 52.44.223.226
+ 52.5.195.214
+ 52.7.253.224
+ 52.7.66.218
+ 52.72.172.66
+ 52.73.164.35
+ 54.159.138.17
+ 54.163.200.121
+ 54.197.93.225
+ 54.205.51.213
+ 54.208.38.111
+ 54.209.19.250
+ 54.210.16.100
+ 54.211.187.76
+ 54.226.96.64
+ 54.80.179.68
+ 54.80.207.227
+ 54.84.59.88
+ 54.87.79.70
+ 95.100.70.45
+ 99.86.4.11
+ 99.86.4.35
+ 99.86.4.54
+ 99.86.4.90
 0.0.0.0 autopatch.juno.ea.com
 0.0.0.0 desktop-config.juno.ea.com
 0.0.0.0 desktop-config-integration.juno.ea.com
@@ -210,18 +210,18 @@ EA app
 0.0.0.0 r3---sn-gxuo03g-vqne.gvt1.com
 0.0.0.0 ratt.juno.ea.com
 0.0.0.0 pin-river.data.ea.com
-Epic Games, Inc.
-Epic Games Launcher
-Angaben zum Epic Games Launcher sind nicht komplett und stellen nur einen Teilauszug der getätigten Verbindungen dar
-Achtung! Zur Anmeldung wird einmalig die tracking.epicgames.com benötigt - Den Analyticszwang gab es in Vorgängerversionen noch nicht
-54.159.7.98
-3.211.138.87
-52.22.227.150
-50.16.103.4
-46.51.241.187
-198.217.251.251
-34.234.9.227
-65.9.83.39
+ Epic Games, Inc.
+ Epic Games Launcher
+ Angaben zum Epic Games Launcher sind nicht komplett und stellen nur einen Teilauszug der getätigten Verbindungen dar
+ Achtung! Zur Anmeldung wird einmalig die tracking.epicgames.com benötigt - Den Analyticszwang gab es in Vorgängerversionen noch nicht
+ 54.159.7.98
+ 3.211.138.87
+ 52.22.227.150
+ 50.16.103.4
+ 46.51.241.187
+ 198.217.251.251
+ 34.234.9.227
+ 65.9.83.39
 0.0.0.0 lightswitch-public-service-prod06.ol.epicgames.com
 0.0.0.0 priceengine-public-service-ecomprod01.ol.epicgames.com
 0.0.0.0 account-public-service-prod03.ol.epicgames.com
@@ -236,34 +236,34 @@ Achtung! Zur Anmeldung wird einmalig die tracking.epicgames.com benötigt - Den 
 0.0.0.0 qos3.ol.epicgames.com
 0.0.0.0 qos4.ol.epicgames.com
 0.0.0.0 songbird.cardinalcommerce.com
-Bei neueren Titeln ist die API mit Telemetrie und Onlinezwang in Spielen verknüpft
-Api mitsamt Endpunkten - Für reines Einzelspielervergnügen ohne Schnüffelei - Dienste stillschalten
-Diesselbe Adresse als WSS für Heartbeat Telemetrie - Mehr Info unter dem Firmeneintrag zu Epic Games, Inc.
-35.168.186.144
-3.217.15.178
-54.146.107.62
-54.146.103.168
-34.225.36.75
-52.20.216.246
-34.239.197.18
-54.145.142.99
-52.3.2.193
-35.172.21.138
-52.3.2.193
-3.223.253.136
-3.123.128.174
-3.121.217.224
-3.227.34.162
+ Bei neueren Titeln ist die API mit Telemetrie und Onlinezwang in Spielen verknüpft
+ Api mitsamt Endpunkten - Für reines Einzelspielervergnügen ohne Schnüffelei - Dienste stillschalten
+ Diesselbe Adresse als WSS für Heartbeat Telemetrie - Mehr Info unter dem Firmeneintrag zu Epic Games, Inc.
+ 35.168.186.144
+ 3.217.15.178
+ 54.146.107.62
+ 54.146.103.168
+ 34.225.36.75
+ 52.20.216.246
+ 34.239.197.18
+ 54.145.142.99
+ 52.3.2.193
+ 35.172.21.138
+ 52.3.2.193
+ 3.223.253.136
+ 3.123.128.174
+ 3.121.217.224
+ 3.227.34.162
 0.0.0.0 api.epicgames.dev
-Version 1 Endpunkt
+ Version 1 Endpunkt
 0.0.0.0 eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com
-Version 2 Endpunkt
-Notwendig für Systeme wie PI-Hole oder Adguard
+ Version 2 Endpunkt
+ Notwendig für Systeme wie PI-Hole oder Adguard
 0.0.0.0 eos-gateway-ingressv2-prod-c1-w2.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingressv2-prod-c1-w4.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingressv2-prod-c1-w5.befa.live.use1a.on.epicgames.com
@@ -278,17 +278,17 @@ Notwendig für Systeme wie PI-Hole oder Adguard
 0.0.0.0 eos-gateway-ingressv2-prod-c3-w4.befa.live.use1a.on.epicgames.com
 0.0.0.0 eos-gateway-ingressv2-prod-c3-w5.befa.live.use1a.on.epicgames.com
 0.0.0.0 metrics.ol.epicgames.com
-Downloads
-65.9.83.109
-55.222.155.195
-143.204.89.36
-13.224.195.35
-13.227.219.27
-65.9.83.64
-65.9.73.55
-65.9.76.182
-65.9.83.116
-65.9.83.3
+ Downloads
+ 65.9.83.109
+ 55.222.155.195
+ 143.204.89.36
+ 13.224.195.35
+ 13.227.219.27
+ 65.9.83.64
+ 65.9.73.55
+ 65.9.76.182
+ 65.9.83.116
+ 65.9.83.3
 0.0.0.0 download.epicgames.com
 0.0.0.0 download2.epicgames.com
 0.0.0.0 download3.epicgames.com
@@ -298,51 +298,51 @@ Downloads
 0.0.0.0 d3jcvwdlexg1ul.cloudfront.net
 0.0.0.0 d2vryputvprrok.cloudfront.net
 0.0.0.0 static-assets-prod.unrealengine.com
-Warenkorb
-184.73.115.165
-54.68.228.72
-52.34.71.92
-100.20.121.79
+ Warenkorb
+ 184.73.115.165
+ 54.68.228.72
+ 52.34.71.92
+ 100.20.121.79
 0.0.0.0 payment-website-pci.ol.epicgames.com  IP-Adresse, Land, Sprtache, Zeitstempel, Währung, AccountID, genutzte Plattform z.b. Launcher uvm
 0.0.0.0 a.stun.kaptcha.com
 0.0.0.0 ssl.kaptcha.com
-Cloud
-34.192.2.184
+ Cloud
+ 34.192.2.184
 0.0.0.0 datastorage-public-service-liveegs.live.use1a.on.epicgames.com
-Freunde
-35.169.189.124
-3.224.186.128
-34.199.242.157
-50.17.75.168
+ Freunde
+ 35.169.189.124
+ 3.224.186.128
+ 34.199.242.157
+ 50.17.75.168
 0.0.0.0 friends-public-service-prod06.ol.epicgames.com  Verknüpfung & Blockliste
 0.0.0.0 xmpp-service-prod.ol.epicgames.com  Websocket
 0.0.0.0 xmpp-service-prod-weighted.ol.epicgames.com
 0.0.0.0 launcher-website-prod07.ol.epicgames.com  Freundeseite
-Seitenaufbau, Inhalte
-52.4.65.215
-104.101.101.114
-52.207.66.163
+ Seitenaufbau, Inhalte
+ 52.4.65.215
+ 104.101.101.114
+ 52.207.66.163
 0.0.0.0 static-assets-prod.epicgames.com  Javascripts, CSS, Schriften, Bilder
-Analytics, Affiliate und Geodatenerfassung
-52.2.190.222
-54.158.82.37
-52.22.160.221
-35.153.174.108
-34.192.176.27
-52.20.219.23
-50.17.125.216
-34.228.118.104
-52.202.229.103
-35.188.42.15
-34.194.59.21
-34.202.239.176
-52.202.229.103
-3.222.153.230
-3.227.104.71
-34.228.176.58
-54.242.72.161
-52.6.71.146
-52.22.147.232
+ Analytics, Affiliate und Geodatenerfassung
+ 52.2.190.222
+ 54.158.82.37
+ 52.22.160.221
+ 35.153.174.108
+ 34.192.176.27
+ 52.20.219.23
+ 50.17.125.216
+ 34.228.118.104
+ 52.202.229.103
+ 35.188.42.15
+ 34.194.59.21
+ 34.202.239.176
+ 52.202.229.103
+ 3.222.153.230
+ 3.227.104.71
+ 34.228.176.58
+ 54.242.72.161
+ 52.6.71.146
+ 52.22.147.232
 0.0.0.0 datarouter.ol.epicgames.com
 0.0.0.0 datarouter-prod.ak.epicgames.com
 0.0.0.0 tracking.epicgames.com  Javascript, Pageview, Trackingpixel - aktiviert sich auf ziemlich jeder Seite mit aktuellen Daten und Aufnahme von Einzelschritten
@@ -352,22 +352,22 @@ Analytics, Affiliate und Geodatenerfassung
 0.0.0.0 tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 0.0.0.0 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 0.0.0.0 sentry.io  Monitoring und Errortracking
-Nicht zugeordnet
-23.45.96.219
+ Nicht zugeordnet
+ 23.45.96.219
 0.0.0.0 talon-website-prod.ak.epicgames.com
 0.0.0.0 talon-service-prod.ak.epicgames.com
 0.0.0.0 talon-service-v4-prod.ak.epicgames.com
-Drittanbieter
-216.58.205.238
-216.58.208.33
-104.19.198.151
-54.84.34.104
-76.223.31.44
-13.248.151.210
-143.204.202.115
-99.86.3.37
-13.35.253.45
-143.204.202.85
+ Drittanbieter
+ 216.58.205.238
+ 216.58.208.33
+ 104.19.198.151
+ 54.84.34.104
+ 76.223.31.44
+ 13.248.151.210
+ 143.204.202.115
+ 99.86.3.37
+ 13.35.253.45
+ 143.204.202.85
 0.0.0.0 www.youtube.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 i.ytimg.com
@@ -378,50 +378,50 @@ Drittanbieter
 0.0.0.0 events.elev.io  Supportwebseite
 0.0.0.0 bam-cell.nr-data.net  Tracking von https://store-launcher.epicgames.com/store/purchase
 0.0.0.0 js-agent.newrelic.com  Tracking von https://store-launcher.epicgames.com/store/purchase?showNavigation=true&highlightColor=0078f2&offers=1-xxxxxx-xxxxxx
-13.248.151.210
-76.223.31.44
-151.101.114.217
-52.87.79.132
-54.88.39.88
-54.86.9.34
+ 13.248.151.210
+ 76.223.31.44
+ 151.101.114.217
+ 52.87.79.132
+ 54.88.39.88
+ 54.86.9.34
 0.0.0.0 app.launchdarkly.com
 0.0.0.0 clientstream-ga.launchdarkly.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 clientstream-ga.launchdarkly.com
-Webseite Anmeldung Captcha
-104.16.168.131
-34.253.77.237
-13.227.156.28
-13.227.134.216
-104.16.169.131
-104.18.25.64
+ Webseite Anmeldung Captcha
+ 104.16.168.131
+ 34.253.77.237
+ 13.227.156.28
+ 13.227.134.216
+ 104.16.169.131
+ 104.18.25.64
 0.0.0.0 hcaptcha.com
 0.0.0.0 assets.hcaptcha.com
 0.0.0.0 newassets.hcaptcha.com
 0.0.0.0 prod-ireland.arkoselabs.com
 0.0.0.0 epic-games-api.arkoselabs.com
-Epic Games Datarouter
-Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
+ Epic Games Datarouter
+ Ipv4/6 Adressen - https://gameindustry.eu/katalog/epic-games-inc/
 0.0.0.0 datarouter-prod.ak.epicgames.com
 0.0.0.0 datarouter-weighted.ol.epicgames.com
 0.0.0.0 datarouter.cfef.live.use1a.on.epicgames.com
 0.0.0.0 datarouter.ol.epicgames.com
-Paradox Interactive AB
-Paradox Launcher
-Telemetrie und Tracking
+ Paradox Interactive AB
+ Paradox Launcher
+ Telemetrie und Tracking
 0.0.0.0 usage.trackjs.com
 0.0.0.0 capture.trackjs.co
 0.0.0.0 prod-telemetry.paradox-interactive.com
 0.0.0.0 opstm.paradoxplaza.com  In älteren Titeln aktiv, wurde durch Prod-Telemetry ersetzt
-Anmeldung und Account optional
+ Anmeldung und Account optional
 0.0.0.0 services.paradoxplaza.com
 0.0.0.0 api.paradox-interactive.com
 0.0.0.0 d3.shared.global.fastly.net
 0.0.0.0 sourcemaps.paradox-interactive.com
-Rockstar Games, Inc.
-Rockstar Games Launcher
-Games Launcher, Social Club UI & Launcher Patcher
+ Rockstar Games, Inc.
+ Rockstar Games Launcher
+ Games Launcher, Social Club UI & Launcher Patcher
 0.0.0.0 scui.rockstargames.com
 0.0.0.0 rgl.rockstargames.com
 0.0.0.0 rgl-prod.ros.rockstargames.com
@@ -440,28 +440,28 @@ Games Launcher, Social Club UI & Launcher Patcher
 0.0.0.0 ps-rgl-prod.ros.rockstargames.com
 0.0.0.0 tm-rgl-prod.ros.rockstargames.com
 0.0.0.0 rsgames.s.llnwi.net
-Cloudsync
+ Cloudsync
 0.0.0.0 app-rgl-prod.ros.rockstargames.com
 0.0.0.0 cs-rgl-prod.ros.rockstargames.com
-Ubisoft Entertainment SA
-Ubisoft Connect | UPlay
-18.66.248.30
-104.17.198.189
-34.230.206.212
-54.160.36.77
-34.230.206.212
-23.213.161.28
-3.224.78.1
-3.224.78.1
-52.203.15.59
-23.213.161.20
-3.232.223.8
-23.213.161.23
-23.213.161.30
-23.35.237.102
-54.164.98.174
-13.224.189.16
-23.35.228.244
+ Ubisoft Entertainment SA
+ Ubisoft Connect | UPlay
+ 18.66.248.30
+ 104.17.198.189
+ 34.230.206.212
+ 54.160.36.77
+ 34.230.206.212
+ 23.213.161.28
+ 3.224.78.1
+ 3.224.78.1
+ 52.203.15.59
+ 23.213.161.20
+ 3.232.223.8
+ 23.213.161.23
+ 23.213.161.30
+ 23.35.237.102
+ 54.164.98.174
+ 13.224.189.16
+ 23.35.228.244
 0.0.0.0 store.ubi.com
 0.0.0.0 public-ubiservices.ubi.com
 0.0.0.0 connect.ubisoft.com
@@ -472,30 +472,30 @@ Ubisoft Connect | UPlay
 0.0.0.0 public-ws-ubiservices.ubi.com
 0.0.0.0 static.a.upc.ubisoft.com
 0.0.0.0 unpkg.com
-Suche
-38.103.45.43
-37.187.142.53
+ Suche
+ 38.103.45.43
+ 37.187.142.53
 0.0.0.0 avcvysejs1-dsn.algolia.net
 0.0.0.0 xely3u4lod-dsn.algolia.net
-Spyware, Werbung und Tracker
-15.236.176.210
-18.66.112.34
-18.66.112.34
-34.107.143.101
-34.102.161.46
-54.171.36.61
-142.250.184.226
-142.250.185.134
-142.250.186.46
-142.250.185.97
-142.250.185.118
-172.217.18.4
-142.250.184.227
-142.250.185.170
-172.217.16.206
-151.101.1.26
-18.66.138.159
-151.101.1.26
+ Spyware, Werbung und Tracker
+ 15.236.176.210
+ 18.66.112.34
+ 18.66.112.34
+ 34.107.143.101
+ 34.102.161.46
+ 54.171.36.61
+ 142.250.184.226
+ 142.250.185.134
+ 142.250.186.46
+ 142.250.185.97
+ 142.250.185.118
+ 172.217.18.4
+ 142.250.184.227
+ 142.250.185.170
+ 172.217.16.206
+ 151.101.1.26
+ 18.66.138.159
+ 151.101.1.26
 0.0.0.0 smetrics.ubi.com
 0.0.0.0 try.abtasty.com  Analyticsscript
 0.0.0.0 dcinfos-cache.abtasty.com  GeoIP
@@ -507,48 +507,48 @@ Spyware, Werbung und Tracker
 0.0.0.0 i.ytimg.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 polyfill.io
-Valve Corporation | Valve Softworks | Steam Client
-Info: https://gameindustry.eu/katalog/valve-corporation/captive-portal/
-Seit Version 1637358733 inaktiv
+ Valve Corporation | Valve Softworks | Steam Client
+ Info: https://gameindustry.eu/katalog/valve-corporation/captive-portal/
+ Seit Version 1637358733 inaktiv
 0.0.0.0 gstatic.com  ALT
-Neuer Versuch mit Callbacks seit Clientversion 1652399523 - IPv4 nicht vollständig
-95.101.27.151
-2.16.107.155
-23.213.161.93
-23.213.161.77
-62.115.252.177
+ Neuer Versuch mit Callbacks seit Clientversion 1652399523 - IPv4 nicht vollständig
+ 95.101.27.151
+ 2.16.107.155
+ 23.213.161.93
+ 23.213.161.77
+ 62.115.252.177
 0.0.0.0 test.steampowered.com  /204
-Steam: Auth | https & wss Protokoll
-103.10.124.124
-103.28.54.178
-162.254.196.67
-103.28.54.165
-155.133.252.39
-185.25.182.76
-205.185.194.197
-205.196.6.75
-153.254.86.163
-103.10.124.163
-155.133.249.196
-155.133.248.37
-162.254.193.74
-162.254.195.67
-155.133.248.39
-155.133.248.35
-155.133.248.34
-155.133.248.36
-155.133.250.139
-155.133.248.38
-155.133.250.140
-155.133.250.146
-146.66.152.11
-146.66.155.101
-162.254.192.100
-162.254.197.42
-155.133.248.53
-162.254.197.181
-162.254.197.180
-155.133.248.50
+ Steam: Auth | https & wss Protokoll
+ 103.10.124.124
+ 103.28.54.178
+ 162.254.196.67
+ 103.28.54.165
+ 155.133.252.39
+ 185.25.182.76
+ 205.185.194.197
+ 205.196.6.75
+ 153.254.86.163
+ 103.10.124.163
+ 155.133.249.196
+ 155.133.248.37
+ 162.254.193.74
+ 162.254.195.67
+ 155.133.248.39
+ 155.133.248.35
+ 155.133.248.34
+ 155.133.248.36
+ 155.133.250.139
+ 155.133.248.38
+ 155.133.250.140
+ 155.133.250.146
+ 146.66.152.11
+ 146.66.155.101
+ 162.254.192.100
+ 162.254.197.42
+ 155.133.248.53
+ 162.254.197.181
+ 162.254.197.180
+ 155.133.248.50
 0.0.0.0 ext1-fra1.steamserver.net
 0.0.0.0 ext1-fra2.steamserver.net
 0.0.0.0 ext1-hkg1.steamserver.net
@@ -563,158 +563,158 @@ Steam: Auth | https & wss Protokoll
 0.0.0.0 ext3-sgp1.steamserver.net
 0.0.0.0 ext4-hkg1.steamserver.net
 0.0.0.0 ext4-sgp1.steamserver.net
-Steam: API
-23.53.54.51
-2.16.212.48
-96.16.130.74
-23.78.88.233
-104.73.230.192
-184.86.38.254
-172.227.184.238
-104.90.132.221
-104.108.177.8
-2.23.53.12
-Block nicht empfohlen, aber möglich.
-Metriken unter /IClientMetricsService/ReportClientError/v1
+ Steam: API
+ 23.53.54.51
+ 2.16.212.48
+ 96.16.130.74
+ 23.78.88.233
+ 104.73.230.192
+ 184.86.38.254
+ 172.227.184.238
+ 104.90.132.221
+ 104.108.177.8
+ 2.23.53.12
+ Block nicht empfohlen, aber möglich.
+ Metriken unter /IClientMetricsService/ReportClientError/v1
 0.0.0.0 api.steampowered.com  Globale Erfolge, Anmeldetoken, DRM, Metriken, Kommentare im Forum und Profil, Aktivitäten
-Steam: Broadcasting
-23.53.41.248
-208.64.200.16
-2.19.198.137
-2.19.198.122
+ Steam: Broadcasting
+ 23.53.41.248
+ 208.64.200.16
+ 2.19.198.137
+ 2.19.198.122
 0.0.0.0 video.steamstatic.com
-Steam: Bootstrapper - Beispiele einiger Endpunkte
+ Steam: Bootstrapper - Beispiele einiger Endpunkte
 0.0.0.0 162-254-198-18.valve.net
 0.0.0.0 162-254-198-44.valve.net
 0.0.0.0 162-254-198-104.valve.net
 0.0.0.0 162-254-198-130.valve.net
 0.0.0.0 162-254-198-131.valve.net
-Block nicht empfohlen da Kettenreaktion, aber möglich. Wirkt sich auf zahlreiche Drittanbiterseiten aus, die allesamt auf Steam verlinken
-2.16.106.88
-2.21.228.105
-190.98.152.34
-2.21.228.17
-80.239.200.19
-23.55.110.140
-23.55.110.155
-20.150.78.68
-142.250.185.144
+ Block nicht empfohlen da Kettenreaktion, aber möglich. Wirkt sich auf zahlreiche Drittanbiterseiten aus, die allesamt auf Steam verlinken
+ 2.16.106.88
+ 2.21.228.105
+ 190.98.152.34
+ 2.21.228.17
+ 80.239.200.19
+ 23.55.110.140
+ 23.55.110.155
+ 20.150.78.68
+ 142.250.185.144
 0.0.0.0 steamugcquincy.blob.core.windows.net
-34.102.245.185
-205.185.216.10
-Steam: Chat
+ 34.102.245.185
+ 205.185.216.10
+ Steam: Chat
 0.0.0.0 bc1-tuk1.chat.steamcontent.com
-23.14.242.145
-172.227.166.174
-104.108.78.51
-2.17.182.211
-23.78.65.15
-104.108.9.73
-23.197.5.200
-72.247.156.152
-95.100.136.40
-92.123.7.146
-104.89.16.74
-95.100.61.44
-23.32.113.192
-23.13.253.87
-23.65.192.118
-104.89.7.250
-104.74.120.234
-104.82.95.31
-23.62.113.19
+ 23.14.242.145
+ 172.227.166.174
+ 104.108.78.51
+ 2.17.182.211
+ 23.78.65.15
+ 104.108.9.73
+ 23.197.5.200
+ 72.247.156.152
+ 95.100.136.40
+ 92.123.7.146
+ 104.89.16.74
+ 95.100.61.44
+ 23.32.113.192
+ 23.13.253.87
+ 23.65.192.118
+ 104.89.7.250
+ 104.74.120.234
+ 104.82.95.31
+ 23.62.113.19
 0.0.0.0 steam-chat.com  Javascript WebUI, JSON, Miniprofile
-Steam: Client Update Service
-2.21.228.80
-155.133.250.108
-104.123.68.4
-72.247.154.163
-155.133.250.76
-162.254.192.34
-190.98.152.8
+ Steam: Client Update Service
+ 2.21.228.80
+ 155.133.250.108
+ 104.123.68.4
+ 72.247.154.163
+ 155.133.250.76
+ 162.254.192.34
+ 190.98.152.8
 0.0.0.0 media4.steampowered.com
 0.0.0.0 client-download.steampowered.com
-Steam: Clientkonfiguration
-80.239.200.27
-2.21.228.120
-2.21.228.73
-190.98.152.18
-2.22.61.75
-Beinhalten Daten/Id's zu Spieltitel und Dlcs, Produktgrafiken, Sprache, Publisher, Seitenkategorien, Schlagworte sowie ManifestId's für Downloads
-Steam: Cloud für Speicherstände & Client
-De/aktivieren nach Bedarf
+ Steam: Clientkonfiguration
+ 80.239.200.27
+ 2.21.228.120
+ 2.21.228.73
+ 190.98.152.18
+ 2.22.61.75
+ Beinhalten Daten/Id's zu Spieltitel und Dlcs, Produktgrafiken, Sprache, Publisher, Seitenkategorien, Schlagworte sowie ManifestId's für Downloads
+ Steam: Cloud für Speicherstände & Client
+ De/aktivieren nach Bedarf
 0.0.0.0 cloud-3.steamusercontent.com
-172.217.167.176
-20.150.43.97
-20.150.78.68
-216.58.209.176
-173.194.221.128
-142.250.185.80
-108.177.119.128
-142.250.74.208
-20.238.118.132
-216.58.201.80
-64.233.163.128
-172.217.23.80
-20.38.118.132
-172.217.22.16
-52.239.140.10
-216.58.205.240
-52.190.240.132
-216.58.206.16
-216.58.207.80
-172.217.22.16
-173.194.73.128
+ 172.217.167.176
+ 20.150.43.97
+ 20.150.78.68
+ 216.58.209.176
+ 173.194.221.128
+ 142.250.185.80
+ 108.177.119.128
+ 142.250.74.208
+ 20.238.118.132
+ 216.58.201.80
+ 64.233.163.128
+ 172.217.23.80
+ 20.38.118.132
+ 172.217.22.16
+ 52.239.140.10
+ 216.58.205.240
+ 52.190.240.132
+ 216.58.206.16
+ 216.58.207.80
+ 172.217.22.16
+ 173.194.73.128
 0.0.0.0 objectstorage.eu-frankfurt-1.oraclecloud.com
 0.0.0.0 objectstorage.eu-amsterdam-1.oraclecloud.com
 0.0.0.0 objectstorage.eu-stockholm-1.oraclecloud.com
 0.0.0.0 blob.mwh04prdstr01a.store.core.windows.net
-Clouduploads direkt über IP
-208.64.201.182  /depotupload/xxxxx/manifest und chunk
-Nicht authorisierte Clouduploads
-Steam: Cloudflare
-104.18.24.217
-104.18.25.217
-2606:4700::6812:18d9
+ Clouduploads direkt über IP
+ 208.64.201.182  /depotupload/xxxxx/manifest und chunk
+ Nicht authorisierte Clouduploads
+ Steam: Cloudflare
+ 104.18.24.217
+ 104.18.25.217
+ 2606:4700::6812:18d9
 0.0.0.0 community.cloudflare.steamstatic.com  Sounds, CSS Dateien, Javascript, Emoticons, Icons, Grafiken Sammelkarten
 0.0.0.0 store.cloudflare.steamstatic.com  Javascript, CSS, Schriften, Webseitengrafiken
 0.0.0.0 shared.cloudflare.steamstatic.com
 0.0.0.0 clan.cloudflare.steamstatic.com
 0.0.0.0 avatars.cloudflare.steamstatic.com
-Steam: Community
-84.53.187.17
-104.115.82.107
-104.73.230.192
-190.98.152.19
-23.10.118.254
+ Steam: Community
+ 84.53.187.17
+ 104.115.82.107
+ 104.73.230.192
+ 190.98.152.19
+ 23.10.118.254
 0.0.0.0 steamcommunity.com  eigene ID, GruppenID, Freunde, Abzeichen, News, Diskussionen, Miniprofil, Profil und Ökonomie
-Steam: Crashlogs | Telemetrie
-Ip/s blockieren:
-208.64.203.140
-208.64.203.173
-23.55.163.64
+ Steam: Crashlogs | Telemetrie
+ Ip/s blockieren:
+ 208.64.203.140
+ 208.64.203.173
+ 23.55.163.64
 0.0.0.0 crash.steampowered.com  BuildID, Zeit, Notes, Plattform, Produktname, Startzeit, Steamuniverse, Theme, Url, UserID, Vendor, Version, Laufzeit, Upload der Minidump uvm.
 0.0.0.0 collector-01.valve.net
 0.0.0.0 collector-02.valve.net
-Steam: Discovery
-Verbindungen während des Clientstarts als auch zum Start von Spielen aktiviert - Auflistnung nicht vollständig
-Connections activated during client start as well as for starting games - listing not complete
+ Steam: Discovery
+ Verbindungen während des Clientstarts als auch zum Start von Spielen aktiviert - Auflistnung nicht vollständig
+ Connections activated during client start as well as for starting games - listing not complete
 0.0.0.0 p2p-ams1.discovery.steamserver.net
 0.0.0.0 p2p-fra1.discovery.steamserver.net
 0.0.0.0 p2p-fra2.discovery.steamserver.net
 0.0.0.0 p2p-sto1.discovery.steamserver.net
-Steam: Downloads | Depots | Examples / Beispiele
-Africa - Nordwest
+ Steam: Downloads | Depots | Examples / Beispiele
+ Africa - Nordwest
 0.0.0.0 cache11-lhr1.steamcontent.com
 0.0.0.0 cache13-lhr1.steamcontent.com
 0.0.0.0 cache16-lhr1.steamcontent.com
 0.0.0.0 cache1-lhr1.steamcontent.com
-Germany - Berlin
+ Germany - Berlin
 0.0.0.0 cache10-fra2.steamcontent.com
 0.0.0.0 cache11-fra1.steamcontent.com
 0.0.0.0 cache2-fra2.steamcontent.com
 0.0.0.0 cache6-fra1.steamcontent.com
-Japan - Fukuoka
+ Japan - Fukuoka
 0.0.0.0 cache10-tyo3.steamcontent.com
 0.0.0.0 cache11-tyo3.steamcontent.com
 0.0.0.0 cache12-tyo3.steamcontent.com
@@ -723,30 +723,30 @@ Japan - Fukuoka
 0.0.0.0 cache3-tyo3.steamcontent.com
 0.0.0.0 cache7-tyo3.steamcontent.com
 0.0.0.0 cache8-tyo3.steamcontent.com
-Outage/Replacement Server
-Steam: Datagram Relay | SDR
-Ipv4 Download - https://www.gameindustry.eu/blog/steam-datagram-relay/
-Steamworks Info - https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay
-Steam: Game Overlay UI
-Ip/s blockieren:
-52.58.211.18
+ Outage/Replacement Server
+ Steam: Datagram Relay | SDR
+ Ipv4 Download - https://www.gameindustry.eu/blog/steam-datagram-relay/
+ Steamworks Info - https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay
+ Steam: Game Overlay UI
+ Ip/s blockieren:
+ 52.58.211.18
 0.0.0.0 ec2-52-58-211-18.eu-central-1.compute.amazonaws.com
-Steam: IP Checks
-Info & IPv6: https://gameindustry.eu/katalog/valve-corporation/ipv6check/
+ Steam: IP Checks
+ Info & IPv6: https://gameindustry.eu/katalog/valve-corporation/ipv6check/
 0.0.0.0 ipv6check-udp.steamserver.net
 0.0.0.0 ipv6check-http.steamserver.net  Obsolete, but still contacted
-Steam: IP Selector
-205.196.6.144
-205.196.6.172
-205.196.6.174
-205.196.6.137
-205.196.6.139
-205.196.6.141
-205.196.6.138
+ Steam: IP Selector
+ 205.196.6.144
+ 205.196.6.172
+ 205.196.6.174
+ 205.196.6.137
+ 205.196.6.139
+ 205.196.6.141
+ 205.196.6.138
 0.0.0.0 lancache.steamcontent.com
 0.0.0.0 origin-ip-selector.steampipe.steamcontent.akadns.net
-Steam: Beispiele Multiplayer Serverlisten & Content
-Valve Server reichen von 1 bis ca. 3000+
+ Steam: Beispiele Multiplayer Serverlisten & Content
+ Valve Server reichen von 1 bis ca. 3000+
 0.0.0.0 valve561.steamcontent.com
 0.0.0.0 valve559.steamcontent.com
 0.0.0.0 valve556.steamcontent.com
@@ -765,75 +765,75 @@ Valve Server reichen von 1 bis ca. 3000+
 0.0.0.0 valve2507.steamcontent.com
 0.0.0.0 valve165.steamcontent.com
 0.0.0.0 valve1601.steamcontent.com
-Steam: Nutzergenerierte Inhalte
-2.20.254.145
-104.115.82.975
-172.217.23.129
-Steam: SteamService.exe
-Digicert
-192.16.58.8
-Steam: streaming_client.exe | RemotePlay
-GetSDRConfig, Clientservice - NotifyRemotePacket, GetReplies, CreateSessions, Valve Partner
+ Steam: Nutzergenerierte Inhalte
+ 2.20.254.145
+ 104.115.82.975
+ 172.217.23.129
+ Steam: SteamService.exe
+ Digicert
+ 192.16.58.8
+ Steam: streaming_client.exe | RemotePlay
+ GetSDRConfig, Clientservice - NotifyRemotePacket, GetReplies, CreateSessions, Valve Partner
 0.0.0.0 api.steampowered.com
-Steam: Steamworks
-23.78.88.233
+ Steam: Steamworks
+ 23.78.88.233
 0.0.0.0 partner.steamgames.com
-Steam: Store
-23.66.23.40
-104.74.103.35
-23.216.77.136
-2.23.46.232
-2.21.228.105
-104.104.24.178
-172.227.184.199
-104.115.82.107
-93.191.15.138
-93.191.15.153
-93.191.15.170
-93.191.15.171
-https://store.steampowered.com/default/usabilitytracking/
+ Steam: Store
+ 23.66.23.40
+ 104.74.103.35
+ 23.216.77.136
+ 2.23.46.232
+ 2.21.228.105
+ 104.104.24.178
+ 172.227.184.199
+ 104.115.82.107
+ 93.191.15.138
+ 93.191.15.153
+ 93.191.15.170
+ 93.191.15.171
+ https://store.steampowered.com/default/usabilitytracking/
 0.0.0.0 store.steampowered.com  Altersverifizierung, Nutzungsbedinungen, Suche, Eventtracking, Broadcast, Accountmeldungen, Hover, Updatenews, API Anbindung, Beschreibungen & Ids für Produkte
-Steam: Support
-104.18.11.128
+ Steam: Support
+ 104.18.11.128
 0.0.0.0 support.steampowered.com
-Steam: Updates
-Steam: Unkategorisiert
-2a02:26f0:105:0:0:0:216:16d3
+ Steam: Updates
+ Steam: Unkategorisiert
+ 2a02:26f0:105:0:0:0:216:16d3
 0.0.0.0 steamstats.valvesoftware.com
-155.133.252.39
-162.254.198.104
-162.254.198.44
-103.10.124.125
-155.133.226.78
-103.10.124.122
-162.254.197.54
-162.254.197.39
-162.254.196.67
-Steam: Weitere Drittanbieter
-Ip/s blockieren:
-172.217.16.150
-172.217.22.110
+ 155.133.252.39
+ 162.254.198.104
+ 162.254.198.44
+ 103.10.124.125
+ 155.133.226.78
+ 103.10.124.122
+ 162.254.197.54
+ 162.254.197.39
+ 162.254.196.67
+ Steam: Weitere Drittanbieter
+ Ip/s blockieren:
+ 172.217.16.150
+ 172.217.22.110
 0.0.0.0 i.ytimg.com
-Paypal Tracking - Aktiv im Warenkorb, auch ohne eingegebene Paypaldaten
-151.101.129.21
+ Paypal Tracking - Aktiv im Warenkorb, auch ohne eingegebene Paypaldaten
+ 151.101.129.21
 0.0.0.0 www.paypal.com  Logger, TagManager, Trackingcookies
 0.0.0.0 www-fastly.glb.paypal.com
 0.0.0.0 t.paypal.com  Trackingpixel
-Kopierschutz & DRM
-Kopierschutz & DRM, AntiCheat und andere Gängelungen
-BattlEye Innovations
-BattlEye
-145.239.8.133
-51.195.88.133
+ Kopierschutz & DRM
+ Kopierschutz & DRM, AntiCheat und andere Gängelungen
+ BattlEye Innovations
+ BattlEye
+ 145.239.8.133
+ 51.195.88.133
 0.0.0.0 ce1.battleye.com
 0.0.0.0 grb1.battleye.com  Aus dem Spiel Tom Clancy’s Ghost Recon: Breakpoint
 0.0.0.0 ark1.battleye.com  Aus dem Spiel Ark: Survival Evolved
 0.0.0.0 arma31.battleye.com  Aus dem Spiel Arma 3
 0.0.0.0 ins1.battleye.com  Aus dem Spiel Insurgency
 0.0.0.0 ns3081506.ip-145-239-8.eu
-Kamu Game Security | Epic Games, Inc.
-HYDRA Easy Anti-Cheat
-Dazugehörige IP-Adressen unter https://gameindustry.eu/blog/easy-anti-cheat/
+ Kamu Game Security | Epic Games, Inc.
+ HYDRA Easy Anti-Cheat
+ Dazugehörige IP-Adressen unter https://gameindustry.eu/blog/easy-anti-cheat/
 0.0.0.0 download-alt.easyanticheat.net
 0.0.0.0 gossip.easyanticheat.net
 0.0.0.0 gossip-eu-classic-lb-1736877676.eu-west-1.elb.amazonaws.com
@@ -844,103 +844,103 @@ Dazugehörige IP-Adressen unter https://gameindustry.eu/blog/easy-anti-cheat/
 0.0.0.0 gamesec-hydra-eu-lb-prod-220534806.eu-west-1.elb.amazonaws.com
 0.0.0.0 hydra.easyanticheat.netgamesec-hydra-eu-lb-prod-220534806.eu-west-1.elb.amazonaws.com
 0.0.0.0 d168vncdejh91z.cloudfront.net
-Beispiel weitere Endpunkte
+ Beispiel weitere Endpunkte
 0.0.0.0 server-99-86-4-28.fra6.r.cloudfront.net
 0.0.0.0 ec2-18-203-24-251.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-34-246-243-49.eu-west-1.compute.amazonaws.com
-34.251.96.50
-108.128.74.71
-34.251.96.50
+ 34.251.96.50
+ 108.128.74.71
+ 34.251.96.50
 0.0.0.0 gamesec-hydra-eu-lb-prod-220534806.eu-west-1.elb.amazonaws.com
 0.0.0.0 gamesec-hydra-eu-lb-prod-220534806.eu-west-1.elb.amazonaws.com
 0.0.0.0 gamesec-hydra-eu-lb-prod-220534806.eu-west-1.elb.amazonaws.com
-Sony DADC, Irdeto Access B.V., Nasper Mediengruppe
-Denuvo Anti-Cheat
-63.35.130.78
-Eintrag wird noch ergänzt
+ Sony DADC, Irdeto Access B.V., Nasper Mediengruppe
+ Denuvo Anti-Cheat
+ 63.35.130.78
+ Eintrag wird noch ergänzt
 0.0.0.0 ac-upd.codefusion.technology
 0.0.0.0 ac-fileshare.codefusion.technology
-Denuvo Anti-Tamper
-Anwendungsschutz, Schutz gegen Manipulation und Kopierschutz
-54.229.135.185
-34.255.90.97
-54.77.65.58
-63.33.106.137
-54.155.108.137
-54.72.150.84
-63.35.76.112
-54.72.248.64
-92.122.104.90
-63.33.167.102
-54.171.209.26
-52.51.106.62
-54.72.220.34
-52.17.173.247
-52.208.190.137
-52.49.218.253
-52.18.94.153
-54.194.195.183
-52.49.61.71
+ Denuvo Anti-Tamper
+ Anwendungsschutz, Schutz gegen Manipulation und Kopierschutz
+ 54.229.135.185
+ 34.255.90.97
+ 54.77.65.58
+ 63.33.106.137
+ 54.155.108.137
+ 54.72.150.84
+ 63.35.76.112
+ 54.72.248.64
+ 92.122.104.90
+ 63.33.167.102
+ 54.171.209.26
+ 52.51.106.62
+ 54.72.220.34
+ 52.17.173.247
+ 52.208.190.137
+ 52.49.218.253
+ 52.18.94.153
+ 54.194.195.183
+ 52.49.61.71
 0.0.0.0 srv01.codefusion.technology
 0.0.0.0 cf-revalidation-1750743123.eu-west-1.elb.amazonaws.com
 0.0.0.0 srv02.codefusion.technology
 0.0.0.0 srv03.codefusion.technology
 0.0.0.0 support.codefusion.technology
-Je nach Produkt/Version Abfragen an Globalsign oder Starfield Tech Zertifikate
-65.9.69.181
-108.138.2.173
+ Je nach Produkt/Version Abfragen an Globalsign oder Starfield Tech Zertifikate
+ 65.9.69.181
+ 108.138.2.173
 0.0.0.0 o.ss2.us
 0.0.0.0 ec2-52-208-84-243.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-54-72-248-64.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-63-35-102-230.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-63-35-76-112.eu-west-1.compute.amazonaws.com
-SecuROM
-Wieder ein Kopierschutzmechanismus von Sony - veraltet - Server sind teils je nach Produkt nicht erreichbar.
-SecuROM mag es gar nicht, wenn Process Explorer im Hintergrund läuft
-Seitdem Disney viele Produkte mit Securom übernommen hat, funktionieren legale Aktivierungen teils gar nicht mehr
-34.251.133.206
-54.194.81.177
-34.241.121.74
+ SecuROM
+ Wieder ein Kopierschutzmechanismus von Sony - veraltet - Server sind teils je nach Produkt nicht erreichbar.
+ SecuROM mag es gar nicht, wenn Process Explorer im Hintergrund läuft
+ Seitdem Disney viele Produkte mit Securom übernommen hat, funktionieren legale Aktivierungen teils gar nicht mehr
+ 34.251.133.206
+ 54.194.81.177
+ 34.241.121.74
 0.0.0.0 pa01.sonyvfactory.com
 0.0.0.0 pa02.sonyvfactory.com
 0.0.0.0 pa03.sonyvfactory.com
 0.0.0.0 securom-pa-1057720103.eu-west-1.elb.amazonaws.com
 0.0.0.0 ec2-34-241-121-74.eu-west-1.compute.amazonaws.com
-Desktop-Spiele
-Verbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen. Adressen sind einzeln je Produkt nach Publishernamen aufgeführt. Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
-赤燭遊戲 | RedCandleGames
-Devotion
-Ip/s blockieren:
-34.111.113.40
-34.107.172.168
+ Desktop-Spiele
+ Verbindungsdaten, Analytics, Telemetrie, Spyware, Mehrspielerfunktionen und unnötiger Mist in Spielen. Adressen sind einzeln je Produkt nach Publishernamen aufgeführt. Achtung! In dieser Kategorie sind teilweise diverse Newsletter, Herstellerwebseiten und andere Dienste jeweiliger Produkte gesperrt. Handhabung nach eigenem Bedarf
+ 赤燭遊戲 | RedCandleGames
+ Devotion
+ Ip/s blockieren:
+ 34.111.113.40
+ 34.107.172.168
 0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
-Amazon.com, Inc. / Amazon Games
-New World
-Einträge zu in New Worlds enhaltener Easy AntiCheat Software sind unter der Kategorie Kopierschutz zu finden
-Sonstiges
-18.66.107.191
-18.66.242.78
-18.66.107.55
-52.217.65.220
-52.217.201.201
+ Amazon.com, Inc. / Amazon Games
+ New World
+ Einträge zu in New Worlds enhaltener Easy AntiCheat Software sind unter der Kategorie Kopierschutz zu finden
+ Sonstiges
+ 18.66.107.191
+ 18.66.242.78
+ 18.66.107.55
+ 52.217.65.220
+ 52.217.201.201
 0.0.0.0 d2c74t4zimux3r.cloudfront.net  Steam_App_ID.1063730.json
 0.0.0.0 s3-w.us-east-1.amazonaws.com  auch z.b. für github-production-release-asset-2e65be.s3.amazonaws.com für Releaseuploads
-STS - AWS Identity und Access Management
-54.239.24.200
-54.239.16.72
+ STS - AWS Identity und Access Management
+ 54.239.24.200
+ 54.239.16.72
 0.0.0.0 sts.us-east-1.amazonaws.com
 0.0.0.0 sts.amazonaws.com
-Kinesis - Echtzeitanalysse, BigData und Verknüfpung zu anderen AWS Diensten
-52.119.211.247
-3.24.227.244
-3.123.12.204
-3.123.12.195
-3.24.227.249
-18.229.220.157
-34.223.45.95
-3.91.171.226
+ Kinesis - Echtzeitanalysse, BigData und Verknüfpung zu anderen AWS Diensten
+ 52.119.211.247
+ 3.24.227.244
+ 3.123.12.204
+ 3.123.12.195
+ 3.24.227.249
+ 18.229.220.157
+ 34.223.45.95
+ 3.91.171.226
 0.0.0.0 kinesis.ap-southeast-1.amazonaws.com
 0.0.0.0 kinesis.ap-southeast-2.amazonaws.com
 0.0.0.0 kinesis.ap-northeast-1.amazonaws.com
@@ -949,65 +949,198 @@ Kinesis - Echtzeitanalysse, BigData und Verknüfpung zu anderen AWS Diensten
 0.0.0.0 kinesis.eu-central-1.amazonaws.com
 0.0.0.0 kinesis.us-west-2.amazonaws.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
-Metadata personaHost
-54.146.208.115
-54.89.165.9
-35.174.93.31
-35.173.107.183
-34.207.45.121
+ Metadata personaHost
+ 54.146.208.115
+ 54.89.165.9
+ 35.174.93.31
+ 35.173.107.183
+ 34.207.45.121
 0.0.0.0 service.maestro.us-east-1.social.games.a2z.com  personaHostV2, Sessiondaten
 0.0.0.0 client.us-east-1.social.games.a2z.com  personaHost
 0.0.0.0 client.entitlementservice.amazongames.com
-DynamoDB - PING / Callbacks
-52.94.17.24
-52.119.226.188
-52.94.13.34
-52.94.10.24
-52.94.7.6
-52.94.17.30
-52.119.224.126
-52.94.10.82
-52.94.7.10
-52.94.13.28
-52.94.7.78
+ DynamoDB - PING / Callbacks
+ 52.94.17.24
+ 52.119.226.188
+ 52.94.13.34
+ 52.94.10.24
+ 52.94.7.6
+ 52.94.17.30
+ 52.119.224.126
+ 52.94.10.82
+ 52.94.7.10
+ 52.94.13.28
+ 52.94.7.78
 0.0.0.0 dynamodb.ap-southeast-2.amazonaws.com
 0.0.0.0 dynamodb.eu-central-1.amazonaws.com
 0.0.0.0 dynamodb.us-east-1.amazonaws.com
 0.0.0.0 dynamodb.us-west-2.amazonaws.com
 0.0.0.0 dynamodb.sa-east-1.amazonaws.com
-Marketingtiles / Werbung / Ankündigungen
-52.92.144.186, 52.218.176.33, 3.229.133.91, 34.204.164.210
+ Marketingtiles / Werbung / Ankündigungen
+ 52.92.144.186, 52.218.176.33, 3.229.133.91, 34.204.164.210
 0.0.0.0 ags-nw-cms.s3.us-west-2.amazonaws.com
 0.0.0.0 client.catalogservice.amazongames.com  IngameShop
-Assets
-65.9.71.91, 18.66.122.79, 18.66.122.76
+ Assets
+ 65.9.71.91, 18.66.122.79, 18.66.122.76
 0.0.0.0 assets.ctfassets.net
-52.28.150.142
+ 52.28.150.142
 0.0.0.0 www5-anwxp0euc1-elb-741467932.eu-central-1.elb.amazonaws.com
-Beginn Mehrspieler / Charakterauswahl / Erstellung etc
+ Beginn Mehrspieler / Charakterauswahl / Erstellung etc
 0.0.0.0 ags-javelin-remote-config.s3.amazonaws.com  Konfigurationsets für Kinesis, RegionID, ProduktID, CognitoID, WorldID
-EU Central
+ EU Central
 0.0.0.0 2mfrik7h83.execute-api.us-east-1.amazonaws.com  AuthStack
 0.0.0.0 u433g9r00c.execute-api.eu-central-1.amazonaws.com  LoginGateway
 0.0.0.0 8otrnl8e8d.execute-api.eu-central-1.amazonaws.com  JavelinGateway V2
 0.0.0.0 d1w0bfy6smo4d1.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
-SA East
+ SA East
 0.0.0.0 kqqt5twsi7.execute-api.us-east-1.amazonaws.com  AuthStack
 0.0.0.0 j4n6whncmi.execute-api.sa-east-1.amazonaws.com  LoginGateway
 0.0.0.0 ei4rb8pwvd.execute-api.sa-east-1.amazonaws.com  JavelinGateway V2
 0.0.0.0 d1cjlmzk0xrm0z.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
-US East
+ US East
 0.0.0.0 0prplal5u1.execute-api.us-east-1.amazonaws.com  AuthStack
 0.0.0.0 eudbjx6mig.execute-api.us-east-1.amazonaws.com  LoginGateway
 0.0.0.0 3khxmonavl.execute-api.us-east-1.amazonaws.com  JavelinGateway V2
 0.0.0.0 d2oeuvxi3kfsrw.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
-US West
+ US West
 0.0.0.0 q8hqllbg6k.execute-api.us-east-1.amazonaws.com  AuthStack
 0.0.0.0 v7irlu1nrl.execute-api.us-west-2.amazonaws.com  LoginGateway
 0.0.0.0 mwsyzhfoe5.execute-api.us-west-2.amazonaws.com  JavelinGateway V2
 0.0.0.0 d3bj4csovi1fe8.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
-AP Southeast
+ AP Southeast
 0.0.0.0 hhf8nn71vb.execute-api.us-east-1.amazonaws.com  AuthStack
 0.0.0.0 ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com  LoginGateway
 0.0.0.0 9jlv7mxmw1.execute-api.ap-southeast-2.amazonaws.com  JavelinGateway V2
 0.0.0.0 de4mfzk9wkelz.cloudfront.net  JavelinGateway Cloudfront & Credentials/Logininfo, Charaktere, Serverlisten usw.
+ NA
+ Vector 36
+ Block ip / s:
+ 34.111.113.40
+ 34.107.172.168
+0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+ SQUARE ENIX CO., LTD.
+ ド ラ ラ ン ク エ ス ト ト レ ジ ジ ー ズ っ と 大空 の 时 ⁇  を 罗 す る | DRAGON QUEST TREASURES
+ 23.48.23.194
+ 23.48.23.181
+ 52.208.84.243
+ 63.35.102.230
+ 34.95.92.238
+ s. Heading / AntiCheat
+ s. Steam entry: IP Checks
+0.0.0.0 test.steampowered.com
+ 0.0.0.0 dqtr.sil2.square-enix.com
+ Tripwire Interactive
+ Killing Floor II
+ 216.239.35.12
+ 34.193.144.67
+ 216.239.35.8
+0.0.0.0 analytics.tripwireinteractive.com
+0.0.0.0 ec2-34-193-144-67.compute-1.amazonaws.com
+ 52.201.181.91
+ 52.3.2.193
+ 34.225.36.75
+ 35.172.21.138
+ 54.145.142.99
+ 34.239.197.18
+ 52.20.216.246
+ 104.26.7.104
+ 74.201.103.215
+ 74.201.103.217
+ 0.0.0.0 api.epicgames.dev  online modes, telemetry, matchmaking, registration, web socket Heartbeat
+0.0.0.0 metrics.ol.epicgames.com  Telemetry, Heartbeat
+0.0.0.0 eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
+ s. Steam entry: IP Checks
+ Language chat
+ Unity Technologies
+ Unity3D Engine
+ Unquestioned data transfer of personal information, block at all levels is recommended
+ Information on https://unity3d.com/de/legal/privacy-policy
+ 0.0.0.0 accounts.unity3d.com  WebAUTH
+ 0.0.0.0 api.unity.com  Genesis API
+ 0.0.0.0 id.unity.com  Genesis API URL
+ 0.0.0.0 license.unity3d.com  License server
+0.0.0.0 activation.unity3d.com  activation
+0.0.0.0 ads-brand-postback.unityads.unity3d.com
+0.0.0.0 ads-game-configuration.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 auiopt.unityads.unity3d.com
+0.0.0.0 build-api.cloud.unity3d.com  BuildAPI
+0.0.0.0 build-artifact-api.cloud.unity3d.com  Build Upload API
+0.0.0.0 collab-waiting-list.cloud.unity3d.com  API
+0.0.0.0 collab.cloud.unity3d.com  Collab
+0.0.0.0 commenting.cloud.unity3d.com  Comments
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 core.cloud.unity3d.com  Core
+0.0.0.0 dashboard.heyplayapp.com  Social Dashboard
+0.0.0.0 data.cloud.unity3d.com  cloud data
+0.0.0.0 dataoptout-ui-prd.uca.cloud.unity3d.com
+0.0.0.0 developer.cloud.unity3d.com  Dev, CoreUI
+0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 eloqua-trackings.unity3d.com
+0.0.0.0 embedded.cloud.unity3d.com  Core Embedded
+0.0.0.0 eu-api.uca.cloud.unity3d.com
+0.0.0.0 events.mz.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 jump.cloud.unity3d.com  Jump
+0.0.0.0 lore.cdp.internal.unity3d.com
+0.0.0.0 lore.data.ie.cdp.internal.unity3d.com
+0.0.0.0 multiplayer.unity3d.com  multiplayer
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+0.0.0.0 operate-sdk-telemetry.unity3d.com
+0.0.0.0 perf.cloud.unity3d.com  Activity feed
+0.0.0.0 prd-lender.cdp.internal.unity3d.com  CDP Analytics
+0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
+0.0.0.0 uca.cloud.unity3d.com
+0.0.0.0 unityads.unity3d.com  advertising
+0.0.0.0 webview.unityads.unity3d.com
+ Unity Ads
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 dsp-adx-bidder.unityads.unity3d.com
+0.0.0.0 dsp-adx-tracking.unityads.unity3d.com
+0.0.0.0 dsp-adx-vast.unityads.unity3d.com
+0.0.0.0 dsp-endscreens.unityads.unity3d.com
+0.0.0.0 endscreen.unityads.unity3d.com
+0.0.0.0 endscreen.unityads.unitychina.cn
+0.0.0.0 re-static.unityads.unity3d.com
+ Responsible for sniffing in games
+ Depending on the origin of the user, recorded data is forwarded to USC "e.g. Usa", EUW "e.g. Germany" "or APE" e.g. Japan "from the Perf events. Ips are one of them
+ Block ip / s:
+ 35.227.244.186
+ 35.241.26.53
+ 34.111.82.212
+ 34.111.113.40
+ 35.190.78.8
+ 34.107.181.14
+ 34.107.172.168
+ 35.186.194.186
+ 34.111.113.40
+ 35.190.88.234
+0.0.0.0 api.uca.cloud.unity3d.com  Event telemetry
+0.0.0.0 cdp.cloud.unity3d.com  Event telemetry
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com  Telemetry Start
+0.0.0.0 hwstats.uca.cloud.unity3d.com
+0.0.0.0 perf-events.cloud.unity3d.com  Cloud Reports & Crashlytics
+0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
+0.0.0.0 unity-ai-dp-prd.cdp.internal.unity3d.com  cdp.cloud.unity3d.com
+0.0.0.0 userreporting.cloud.unity3d.com
+ Obsolete
+ Block ip / s:
+ 35.227.244.186
+ 35.241.26.53
+ 35.241.52.229
+0.0.0.0 remote-config-proxy-prd.uca.cloud.unity3d.com  Gateway
+0.0.0.0 stats.unity3d.com  Obsolete / Inactive
+0.0.0.0 thind-gke-ape.prd.data.corp.unity3d.com  JAPAN / ASIA
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com  EUROPE
+0.0.0.0 thind-gke-usc.prd.data.corp.unity3d.com  USA
+0.0.0.0 thind.unityads.unity3d.com
+ Data optout for Analytics together with transfer parameters / tokens. This includes ProgramID, UserID, GeräteID
+ Also settings for deactivated / activated analytics, optout yes / no, report allows yes / no
+ Deactivate / if necessary
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+0.0.0.0 analytics.cloud.unity3d.com  Analytics
