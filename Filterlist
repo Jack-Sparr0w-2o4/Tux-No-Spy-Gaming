@@ -8186,15 +8186,6 @@ Ip/s blockieren:
 0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
-Hello Games
-No Man’s Sky
-40.71.11.147
-104.42.219.41
-0.0.0.0 merged-nms-auth.nomanssky.com
-0.0.0.0 merged-nms-discovery.nomanssky.com
-0.0.0.0 merged-nms-blobserve.nomanssky.com
-0.0.0.0 waws-prod-blu-175.cloudapp.net
-0.0.0.0 pfmsqosprod.westus.cloudapp.azure.com
 Hello There Games
 Teakwondo Grand Prix
 Ip/s blockieren:
