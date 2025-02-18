@@ -9306,16 +9306,6 @@ Ip/s blockieren:
 0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
-Kinetic Games
-Phasmophobia
-Ip/s blockieren:
-34.111.113.40
-34.107.172.168
-35.190.78.8
-0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com
-0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 perf-events.cloud.unity3d.com
 Mehrspielerserver
 172.65.203.188
 172.65.237.131
