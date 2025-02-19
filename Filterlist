@@ -3445,36 +3445,6 @@ Mehrspielerserver
 0.0.0.0 pfmsqos.southeastasia.cloudapp.azure.com  SouthEastAsia
 0.0.0.0 pfmsqos.westeurope.cloudapp.azure.com  WestEurope
 0.0.0.0 pfmsqos.centralus.cloudapp.azure.com  CentralUS
-Fallout IV & Skyrim: Special Edition
-mods.* wird für bethesda.net Accountanmeldung benötigt
-0.0.0.0 mods.bethesda.net
-0.0.0.0 mods.services.bethesda.net
-0.0.0.0 services.bethesda.net  Bethesda Collector
-FalloutVR
-13.32.42.72
-13.224.197.86
-13.33.246.156
-52.85.242.121
-54.192.98.36
-13.224.191.216
-54.230.186.237
-99.86.159.216
-0.0.0.0 services.bethesda.net  Bethesda Collector
-Fallout 76
-74.201.103.214
-52.201.251.22
-13.33.18.252
-13.33.18.251
-13.33.18.47
-13.33.18.38
-3.134.18.201
-34.200.140.229
-13.33.18.242
-0.0.0.0 prod-notification-websocket.bethesda.net
-0.0.0.0 api.bethesda.net
-0.0.0.0 titlestorage.bethesda.net  Konfigurationsdateien
-0.0.0.0 crgateway.p76prod.systems  CrashReporter.exe - Automatischer Crashlogupload
-0.0.0.0 assets.ctfassets.net
 Spielserver
 0.0.0.0 us-east-2-prod-prodpc01-glb-bps-loginqueue.p76prod.systems
 0.0.0.0 us-east-2-prod-prodpc01-glb-bps-gateway.p76prod.systems
